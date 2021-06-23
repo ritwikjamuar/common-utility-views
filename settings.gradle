@@ -1,2 +1,3 @@
 rootProject.name = "common-utility-views"
 include ':app'
+include ':common_utility_views'
